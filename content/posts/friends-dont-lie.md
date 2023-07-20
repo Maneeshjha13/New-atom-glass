@@ -1,11 +1,14 @@
 ---
-title: Friends don't lie
+title: Friends don't lie नमस्कार दोस्तों
 date: 2021-01-04
-tags: [stranger things, tv series]
-social_image: '/media/rocket.jpg'
-description: This is a custom description for SEO and Open Graph purposes. If it's not provided, it defaults to auto-generated excerpts of the page content.
+tags:
+  - stranger things
+  - tv series
+social_image: /media/rocket.jpg
+description: This is a custom description for SEO and Open Graph purposes. If
+  it's not provided, it defaults to auto-generated excerpts of the page
+  content.नमस्कार दोस्तों
 ---
-
 Friends don't lie. Um, I'm happy you're home. We never would've upset you if we knew you had superpowers. Um, I'm happy you're home. Let’s burn that lab to the ground. Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority.Nancy, seriously, you're gonna be so cool now, it's ridiculous. So, Jonathan, how was the pull-out? Um, I'm happy you're home. You're an idiot, Steve Harrington. You're beautiful, Nancy Wheeler. It's just, sometimes... people don't really say what they're really thinking.
 
 But when you capture the right moment, it says more.If we’re both going crazy, then we’ll go crazy together, right? If we’re both going crazy, then we’ll go crazy together, right? I need my paddles! You're an idiot, Steve Harrington. You're beautiful, Nancy Wheeler. Friends don't lie. He’s a sensitive kid. Lonnie used to say he was queer. Called him a fag. Is he? He’s missing, is what he is!You're an idiot, Steve Harrington. You're beautiful, Nancy Wheeler. Do you know anything about sensory deprivation tanks?
@@ -14,7 +17,7 @@ Specifically how to build one? Yeah, I want a date with Bo Derek. We all want th
 
 ## Image
 
-![Rocket launch](/media/rocket.jpg)
+![Rocket launch ](/media/rocket.jpg)
 
 ## Header
 
@@ -28,9 +31,9 @@ Phoebi volucris moveo.
 
 ## Unordered Lists
 
-- Item 1
-- Item 2
-- Item 3
+* Item 1
+* Item 2
+* Item 3
 
 ## Ordered Lists
 
@@ -49,6 +52,19 @@ const findAndReplace = (string, wordToFind, wordToReplace) => {
 let result = findAndReplace('I like banana', 'banana', 'apple'); // I like apple
 ```
 
+```matlab
+\\matlab functions\\
+function hi =gem(a,b)
+b=1;
+a=100/2;
+end
+fprintf("\d%s"a')
+```
+
 ## Quoted Text
 
 > Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+
+# नमस्कार दोस्तों
+
+k﻿aise hai aap sub
